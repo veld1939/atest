@@ -1,0 +1,15 @@
+C:\Users\олег\Desktop\Новая папка (2)\tas\bin\Debug\net7.0\tas.exe
+C:\Users\олег\Desktop\Новая папка (2)\tas\bin\Debug\net7.0\tas.deps.json
+C:\Users\олег\Desktop\Новая папка (2)\tas\bin\Debug\net7.0\tas.runtimeconfig.json
+C:\Users\олег\Desktop\Новая папка (2)\tas\bin\Debug\net7.0\tas.dll
+C:\Users\олег\Desktop\Новая папка (2)\tas\bin\Debug\net7.0\tas.pdb
+C:\Users\олег\Desktop\Новая папка (2)\tas\obj\Debug\net7.0\tas.csproj.AssemblyReference.cache
+C:\Users\олег\Desktop\Новая папка (2)\tas\obj\Debug\net7.0\tas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\олег\Desktop\Новая папка (2)\tas\obj\Debug\net7.0\tas.AssemblyInfoInputs.cache
+C:\Users\олег\Desktop\Новая папка (2)\tas\obj\Debug\net7.0\tas.AssemblyInfo.cs
+C:\Users\олег\Desktop\Новая папка (2)\tas\obj\Debug\net7.0\tas.csproj.CoreCompileInputs.cache
+C:\Users\олег\Desktop\Новая папка (2)\tas\obj\Debug\net7.0\tas.dll
+C:\Users\олег\Desktop\Новая папка (2)\tas\obj\Debug\net7.0\refint\tas.dll
+C:\Users\олег\Desktop\Новая папка (2)\tas\obj\Debug\net7.0\tas.pdb
+C:\Users\олег\Desktop\Новая папка (2)\tas\obj\Debug\net7.0\tas.genruntimeconfig.cache
+C:\Users\олег\Desktop\Новая папка (2)\tas\obj\Debug\net7.0\ref\tas.dll
